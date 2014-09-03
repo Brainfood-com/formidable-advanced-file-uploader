@@ -21,12 +21,10 @@ Chunked Multiple file uploads, Auto upload of videos to YouTube & Brightcove, Fi
 * Would like to store uploaded videos on YouTube account (also Brightcove. Vimeo coming soon!)
 * Added security and validation
 * Bonus Terms of Service Formidable field with optional submit disable feature
-* Creating posts with gavity forms? All uploads are added as post attachments and can be displayed with the [get_adv_uploads] shortcode
-* Also use the wordpress gallery shortcode to display any images attached to a post
+* Creating posts with Formidable? All uploads are added as post attachments and can be displayed with the [get_adv_uploads] shortcode
+* Also use the WordPress gallery shortcode to display any images attached to a post
 
 This is the Formidable uploader plugin for those who need a little more than the default multi file upload of Formidable v1.8. 
-
-Note -- if you are running an older version of Formidable without the built in multi file upload you can use this (tested from v1.6 upwards).
 
 The plugin options page provides you with granular control over many Plupload parameters from file extension filters to chunked uploading and runtimes.
 
